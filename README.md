@@ -15,7 +15,7 @@ I am a ***Web and Mobile application developer***, howevermy professional career
 3. Other:
 
 |Title | Designation|
---------------------
+|------|------------
 |Name | Diabakate Ikary Ryann|
 |Country | Côte D'Ivoire (Ivory Coast)|
 |Certification| CEH - CSCU - Postman(PSE) - Google Africa Developer Training Program|
