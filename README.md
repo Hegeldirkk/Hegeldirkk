@@ -23,7 +23,7 @@ I am a ***Web and Mobile application developer***, howevermy professional career
 |Frontend | dotnet - Vujes - Angular|
 |Mobile | Flutter|
 |Tech | Docker - vagrant - vscode - vi|
-|language| C - Python - Dart - Js |
+|language| C - Python - Dart - Js - php|
 |Hacking | Burpsuite - sqlmap - metasploit etc.|
 ------------------------------------------------
 
