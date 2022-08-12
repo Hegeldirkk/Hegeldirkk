@@ -8,7 +8,7 @@ I am a ***Web and Mobile application developer***, howevermy professional career
 
 2. Find me on Internet 🌎:
 
-	* My Official Website [DIRKK](https//:dirkk.ci) ![logodirkk](https://cv-terminal.cv.dirkk.ci/favicon-16x16.90305a27.png)
+	* My Official Website [DIRKK](https://dirkk.ci) ![logodirkk](https://cv-terminal.cv.dirkk.ci/favicon-16x16.90305a27.png)
 	* LinkedIn [HERE](https://ci.linkedin.com/in/ikary-ryann-kouadio-kamory-diabakate-789321142) ![logo](https://static-exp2.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca)
 
 
