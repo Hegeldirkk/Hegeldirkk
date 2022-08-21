@@ -27,7 +27,7 @@ I am a ***Web and Mobile application developer***, howevermy professional career
 |Hacking | Burpsuite - sqlmap - metasploit etc.|
 ------------------------------------------------
 
-you can check more in my website: [DIRKK](https//:dirkk.ci) ![logodirkk](https://cv-terminal.cv.dirkk.ci/favicon-16x16.90305a27.png)
+you can check more in my website: [DIRKK](https://dirkk.ci) ![logodirkk](https://cv-terminal.cv.dirkk.ci/favicon-16x16.90305a27.png)
 
 <!--
 **Hegeldirkk/Hegeldirkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
