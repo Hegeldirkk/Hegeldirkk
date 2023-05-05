@@ -8,7 +8,7 @@ I am a ***Software Ingeneer***, howevermy professional career has evolved in Cyb
 
 2. Find me on Internet 🌎:
 
-	* My Official Website [DIRKK](https://dirkk.tech) ![logodirkk](https://dirkk.tech/favicon-16x16.90305a27.png)
+	* My Official Website [DIRKK](https://dirkk.tech) ![logodirkk](https://www.dirkk.tech/favicon-16x16.90305a27.png)
 	* LinkedIn [HERE](https://ci.linkedin.com/in/ikary-ryann-kouadio-kamory-diabakate-789321142) ![logo](https://static-exp2.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca)
 
 
@@ -27,7 +27,7 @@ I am a ***Software Ingeneer***, howevermy professional career has evolved in Cyb
 |Hacking | Burpsuite - sqlmap - metasploit etc.|
 ------------------------------------------------
 
-you can check more in my website: [DIRKK](https://dirkk.tech) ![logodirkk](https://dirkk.tech/favicon-16x16.90305a27.png)
+you can check more in my website: [DIRKK](https://dirkk.tech) ![logodirkk](https://www.dirkk.tech/favicon-16x16.90305a27.png)
 
 <!--
 **Hegeldirkk/Hegeldirkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
